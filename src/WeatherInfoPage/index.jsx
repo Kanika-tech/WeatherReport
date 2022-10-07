@@ -52,7 +52,7 @@ function WeatherInfoPage() {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "7c526e4ee1msh1e57f8b43034fe8p135d35jsn832a76f722a4",
+        "X-RapidAPI-Key": "74667bc9b3msh061cf14e65d2757p124c42jsn5e5781468a5f",
         "X-RapidAPI-Host": "weatherbit-v1-mashape.p.rapidapi.com",
       },
     };
